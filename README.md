@@ -1,1 +1,1 @@
-"# Python2025" 
+"Small Python 3 exercises" 
