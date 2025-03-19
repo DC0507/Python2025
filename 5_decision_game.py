@@ -1,3 +1,4 @@
+#Decision game: you have to take a decision and based on your luck, your lifebar will increase or decrease. The goal is to pass all the scenes before your lifebar goes to 0.
 import random
 import time
 

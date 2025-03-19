@@ -1,3 +1,4 @@
+#Basic calculator project
 print("Welcome to the basic calculator!")
 print("Please enter the first number:")
 num1 = float(input())

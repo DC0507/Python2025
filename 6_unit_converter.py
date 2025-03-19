@@ -1,4 +1,4 @@
-#Unit converter for SI
+#Unit converter for SI: you can convert multiples, submultiples or units for the follow
 
 import re
 import math
